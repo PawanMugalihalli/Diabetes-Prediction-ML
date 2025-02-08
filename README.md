@@ -20,7 +20,3 @@
 - **requirements.txt**  
   Lists the **libraries and dependencies** required to run this project.
 
----
-
-Feel free to contribute or raise issues if you encounter any problems while running the project!
-
